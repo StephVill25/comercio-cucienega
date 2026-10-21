@@ -1,6 +1,6 @@
-# Comercio Cuciénega - Documentación
+# Comercio Cuciénega 
 
-## Proyecto Modular INNI 2024-B
+## Proyecto Modular INNI 2026-A
 
 **Desarrolladores:**
 - Erick Orlando Avalos Rodriguez (221804983)
